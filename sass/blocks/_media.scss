@@ -1,0 +1,277 @@
+@media (max-width: 426px) {
+    .promo__icons {
+        display: flex;
+        justify-content: center;
+    }
+    .promo__icon {
+        width: 129px;
+    }
+    .header__contacts {
+        margin-right: 10px;
+    }
+    .reasons__icons {
+        flex-direction: column;
+        align-items: center;
+    }
+    .header .header__logo img {
+        width: 90%;
+    }
+    .header__official {
+        display: none;
+    }
+    .header__phone {
+        font-size: 13px;
+        margin-right: 4px;
+    }
+    .button {
+        width: 139px;
+    }
+    .button.button_main {
+        margin-right: 5px;
+        width: 229px;
+    }
+    .advantages__wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+    .advantages__item {
+        margin-bottom: 10px;
+    }
+    .catalog__tab div {
+        font-size: 14px;
+    }
+    .catalog__tabs {
+        width: 400px;
+        margin-left: 7px;
+        flex-direction: column;
+    }
+    .catalog__tab {
+        margin-bottom: 10px;
+    }
+    .catalog__content_active {
+        flex-direction: column;
+        align-items: center;
+    }
+    .promo__header {
+        font-size: 23px;
+        margin-right: 10px;
+    }
+    .promo__subheader {
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    .promo__link {
+        margin-right: 5px;
+    }
+    .consultation .title {
+        margin-left: 5px;
+        line-height: 20px;
+        font-size: 14px;
+    }
+    .consultation__descr {
+        margin-left: 5px;
+        font-size: 13px;
+    }
+    .feed-form {
+        margin-left: 5px;
+    }
+    .button.button_submit {
+        width: 298px;
+    }
+    .slick-slide img {
+        width: 400px;
+    }
+    .carousel__inner {
+        width: 380px;
+    }
+    .feed__item {
+        flex-direction: column;
+    }
+    .feed__text {
+        text-align: center;
+    }
+    .feed__item img {
+        margin: 0 auto;
+        display: block;
+    }
+    .footer .footer__info {
+        width: 420px;
+    }
+    #consultation {
+        width: 340px;
+        padding: 38px 40px 40px 16px;
+    }
+    .modal .modal__subtitle {
+        font-size: 17px;
+    }
+    .modal .modal__descr {
+        font-size: 13px;
+    }
+    .overlay .modal__close {
+        right: -33px;
+    }
+    #order {
+        width: 340px;
+        padding: 38px 40px 40px 16px;
+    }
+}
+
+@media (max-width: 376px) {
+    .reasons__icons {
+        flex-direction: column;
+        align-items: center;
+    }
+    .header__phone {
+        font-size: 13px;
+    }
+    .promo__icons {
+        width: 363px;
+    }
+    .consultation .title {
+        margin-left: 5px;
+        font-size: 16px;
+    }
+    .consultation__descr {
+        margin-left: 5px;
+    }
+    .feed-form {
+        margin-left: 5px;
+    }
+    .carousel__inner {
+        width: 370px;
+    }
+    .catalog .title {
+        font-size: 26px;
+    }
+    .catalog__tabs {
+        width: 356px;
+        margin-left: 3px;
+        flex-direction: column;
+    }
+    .catalog__tab {
+        margin-bottom: 10px;
+    }
+    .catalog__tab div {
+        font-size: 10px;
+    }
+    .feed__descr {
+        font-size: 15px;
+    }
+    .footer .footer__info {
+        width: 350px;
+    }
+    #consultation {
+        width: 288px;
+        padding: 38px 40px 40px 8px;
+    }
+    .overlay .feed-form.feed-form_mt25 {
+        width: 256px;
+    }
+    .overlay .feed-form.feed-form_mt25 .button.button_submit {
+        width: 256px;
+    }
+    .modal .modal__subtitle {
+        font-size: 15px;
+    }
+    .modal .modal__descr {
+        font-size: 12px;
+    }
+    #order {
+        width: 288px;
+        padding: 38px 40px 40px 8px;
+    }
+}
+
+@media (max-width: 320px) {
+    .reasons__icons {
+        flex-direction: column;
+        align-items: center;
+    }
+    .header__phone {
+        font-size: 12px;
+    }
+    .button {
+        width: 123px;
+        height: 27px;
+    }
+    .header__official {
+        display: none;
+    }
+    .header .header__logo img {
+        width: 95%;
+    }
+    .header__logo {
+        width: 170px;
+    }
+    .promo__header {
+        font-size: 20px;
+    }
+    .promo__subheader {
+        font-size: 10px;
+    }
+    .promo__icons {
+        width: 321px;
+    }
+    .button.button_main {
+        width: 227px;
+        font-size: 15px;
+    }
+    .button.button_submit {
+        height: 36px;
+    }
+    .consultation .title {
+        margin-left: 5px;
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .consultation__descr {
+        margin-left: 5px;
+    }
+    .feed-form {
+        margin-left: 5px;
+    }
+    .carousel__inner {
+        width: 315px;
+    }
+    .slick-slide img {
+        width: 311px;
+    }
+    .catalog .title {
+        font-size: 20px;
+    }
+    .catalog__tabs {
+        width: 314px;
+        flex-direction: column;
+    }
+    .catalog__tab {
+        margin-bottom: 15px;
+    }
+    .feed__descr {
+        font-size: 13px;
+    }
+    .footer .footer__info {
+        width: 312px;
+    }
+    .footer__social .footer__social-item {
+        margin: 0 5px;
+    }
+    #consultation {
+        width: 242px;
+    }
+    .overlay .feed-form.feed-form_mt25 {
+        width: 218px;
+    }
+    .overlay .feed-form.feed-form_mt25 .button.button_submit {
+        width: 218px;
+        font-size: 15px;
+    }
+    .modal .modal__subtitle {
+        font-size: 12px;
+    }
+    .modal .modal__descr {
+        font-size: 10px;
+    }
+    #order {
+        width: 242px;
+    }
+}
